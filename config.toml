@@ -1,0 +1,120 @@
+theme = "awesome-identity"
+baseURL = "https://wangzor.com"
+title = "David Wang - Project Manager / Tech Enthusiast"
+languageCode = "en-US"
+# Content without language indicator will default to this language
+defaultContentLanguage = "en"
+# Make .Summary and .WordCount behave correctly for CJK languages
+hasCJKLanguage = true
+PygmentsCodeFences = true
+# Enable to turn relative URLs into absolute
+canonifyURLs = true
+# Do not convert the url/path to lowercase
+disablePathToLower = false
+# Enable Emoji emoticons support for page content
+enableEmoji = true
+# Update the `Lastmod` parameter for each page using the last git commit date for that content file
+enableGitInfo = true
+# Enable generation of `robots.txt` file
+enableRobotsTXT = true
+
+# Google Analytics tracking ID
+googleAnalytics = "UA-143030805-1"
+
+
+# Add your own params here
+[params]
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  # googleSiteVerification = ""
+
+
+## Crisp Configurations
+[params.crisp]
+#  websiteId = "e475f9fb-ce9e-472b-a194-3a3b92b252c4"
+  # Change the chatbox color theme
+#  color = "red"
+  # Reverse the chatbox position
+#  reversePosition = false
+  # Hide chatbox on mobile devices
+#  hideOnMobile = false
+  # Hide chatbox on support away
+#  hideOnAway = false
+  # Hide chatbox on vacation
+#  hideVacation = false
+
+  
+## Meta Configurations (HTTP Meta tags & OpenGraph)
+[params.meta]
+  description = "Project Manager at GBST"
+  keywords = "wangzor, david wang, gbst, project manager, engineering manager"
+  images = [
+    "/images/profile.gif"
+  ]
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/profile.gif"
+  firstname = "David" 
+  lastname = "Wang"
+  title = "Project Manager / Engineering Manager"
+  bio = """Currently working as a manager in the Fintech industry at [**GBST**](http://gbst.com).
+  
+  9+ years of experience in various roles, from devops, programming, agile coaching and various management roles.
+  
+  I help technical teams be better, facilitating environments fostering trust and growth and continuous improvement.
+  
+  Passion for coaching individuals on personal and professional development with the aim of guiding the teams to see past the conventional."""
+  
+
+## Contacts Configurations
+[params.contacts]
+  email 		= "david.wang@gbst.com"
+  github 		= "wangzor"
+  twitter 		= "wangzor_"
+  linkedin 		= "david-wang1"
+  stackoverflow = "11717384/wangzor"
+  # quora 		= "david-wang-1072"
+  # instagram 	= "wangzor"
+  # medium 		= "wangzor"
+  # dribbble 	= "wangzor"
+  # behance 	= "wangzor"
+  # keybase 	= "wangzor"
+  # facebook 	= "wangzor"
+
+## Actions Configurations
+
+[[params.actions]]
+  name = "Resume (PDF)"
+  url = "https://wangzor.com/david_wang_resume.pdf"
+
+[[params.actions]]
+  name = "Blog"
+  url = "https://www.google.com" 
+  
+[[params.actions]]
+  name = "Unison"
+  url = "https://www.gbst.com/solutions/memberships-and-associations"
+  
+[[params.actions]]
+  name = "Vitality"
+  url = "https://www.emudesign.com.au/portfolio/vitality-invest/"
+ 
+  
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
+
+
+## Privacy Configurations (GDPR)
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    # Make the users’ IP addresses are anonymized within Google Analytics
+    anonymizeIP = false
+    # Make the GA templates respect the “Do Not Track” HTTP header
+    respectDoNotTrack = false
+    # Disable the use of Cookies and use Session Storage to Store the GA Client ID
+    useSessionStorage = false
