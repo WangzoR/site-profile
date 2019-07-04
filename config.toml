@@ -87,7 +87,7 @@ googleAnalytics = "UA-143030805-1"
 
 [[params.actions]]
   name = "Resume (PDF)"
-  url = "https://wangzor.com/david_wang_resume.pdf"
+  url = "https://wangzor.com/david_wang_resume_public.pdf"
 
 [[params.actions]]
   name = "Blog"
