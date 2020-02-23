@@ -94,7 +94,7 @@ googleAnalytics = "UA-143030805-1"
   url = "https://www.emudesign.com.au/portfolio/vitality-invest/"
  
 [[params.actions]]
-  name = "Vitality Invest"
+  name = "Vitality"
   url = "https://adviser.vitality.co.uk/campaigns/investments/launch-2020/" 
 
   [[params.actions]]
