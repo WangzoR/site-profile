@@ -61,11 +61,11 @@ googleAnalytics = "UA-143030805-1"
   title = "Project Manager / Engineering Manager"
   bio = """Currently working as a manager in the Fintech industry at [**GBST**](http://gbst.com).
   
-  9+ years of experience in various roles, from devops, programming, agile coaching and various management roles.
+  9+ years of experience in various roles, from devops, programming, agile coaching and various leadership roles.
   
-  I help technical teams be better, facilitating environments fostering trust and growth and continuous improvement.
+  I help technical teams be better, creating team environments that fosters safety, trust and continuous improvement.
   
-  Passion for coaching individuals on personal and professional development with the aim of guiding the teams to see past the conventional."""
+  Passion for coaching individuals on personal and professional development with the aim of guiding the teams to see past the conventional and beyond best practice."""
   
 
 ## Contacts Configurations
@@ -88,23 +88,22 @@ googleAnalytics = "UA-143030805-1"
 [[params.actions]]
   name = "Resume (PDF)"
   url = "https://wangzor.com/david_wang_resume_public.pdf"
-
-[[params.actions]]
-  name = "Blog"
-  url = "https://www.google.com" 
   
 [[params.actions]]
   name = "Unison"
   url = "https://www.gbst.com/solutions/memberships-and-associations"
   
 [[params.actions]]
-  name = "Vitality"
+  name = "Catalyst"
   url = "https://www.emudesign.com.au/portfolio/vitality-invest/"
  
+[[params.actions]]
+  name = "VitalityInvest Launch 2020"
+  url = "https://adviser.vitality.co.uk/campaigns/investments/launch-2020/" 
   
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2019 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2020 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = false
 
 
