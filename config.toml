@@ -90,17 +90,16 @@ googleAnalytics = "UA-143030805-1"
   url = "https://wangzor.com/david_wang_resume_public.pdf"
   
 [[params.actions]]
-  name = "Unison"
-  url = "https://www.gbst.com/solutions/memberships-and-associations"
-  
-[[params.actions]]
   name = "Catalyst"
   url = "https://www.emudesign.com.au/portfolio/vitality-invest/"
  
 [[params.actions]]
-  name = "VitalityInvest Launch 2020"
+  name = "Vitality Invest"
   url = "https://adviser.vitality.co.uk/campaigns/investments/launch-2020/" 
-  
+
+  [[params.actions]]
+  name = "Unison"
+  url = "https://www.gbst.com/solutions/memberships-and-associations"
 ## Footer Configurations
 [params.footer]
   copyright = "© 2020 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
