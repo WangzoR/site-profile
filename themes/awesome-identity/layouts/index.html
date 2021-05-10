@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-{{ partial "opengraph.html" . }}
-{{ with .Site.Params.meta.description }}
+      {{ partial "opengraph.html" . }}
+      {{ with .Site.Params.meta.description }}
     <meta name="description" content="{{ . }}" />
-{{ end }}
-{{ with .Site.Params.meta.keywords }}
+      {{ end }}
+      {{ with .Site.Params.meta.keywords }}
     <meta name="keywords" content="{{ . }}" />
-{{ end }}
+      {{ end }}
     <base href="{{ .Site.BaseURL }}">
     <title>{{ .Site.Title }}</title>
 
@@ -19,8 +19,9 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:1000,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jura:400,700">
 
-{{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") }}
-{{ $style := resources.Get "sass/main.scss" | toCSS $options | fingerprint }}
+    {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") }}
+    {{ $style := resources.Get "sass/main.scss" | toCSS $options | fingerprint }}
+    
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     <!-- <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}"> -->
 
@@ -31,10 +32,12 @@
   </head>
   <body>
     <div class="wrap">
-        Under Maintenance
+      {{ partial "profile.html" . }}
+      {{ partial "contacts.html" . }}
+      {{ partial "actions.html" . }}      Under Maintenance
     </div>
-{{ partial "footer.html" . }}
-{{ template "_internal/google_analytics_async.html" . }}
-{{ partial "crisp.html" . }}
+      {{ partial "footer.html" . }}
+      {{ template "_internal/google_analytics_async.html" . }}
+      {{ partial "crisp.html" . }}
   </body>
 </html>
