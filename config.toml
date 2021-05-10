@@ -47,7 +47,7 @@ googleAnalytics = "UA-143030805-1"
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
   description = "Project Manager at GBST"
-  keywords = "wangzor, david wang, gbst, project manager, engineering manager"
+  keywords = "wangzor, david wang, gbst, project manager, engineering manager, e-volve, evolve, program manager"
   images = [
     "/images/profile.gif"
   ]
@@ -61,11 +61,11 @@ googleAnalytics = "UA-143030805-1"
   title = "Project Manager / Engineering Manager"
   bio = """Currently working as a Project Manager in the Fintech industry at [**GBST**](http://gbst.com).
   
-  10+ years of experience in various roles, covering devops, programming, agile coaching and various leadership roles.
+  11+ years of experience in various leadership roles, agile coaching, programming and DevOps.
   
-  I help technical teams be better, creating team environments that foster a culture of trust saftey and continuous improvement.
+  I help development teams be better, creating team environments that foster a culture of trust saftey and continuous improvement.
   
-  Passion for coaching individuals on personal and professional development with the aim of guiding the teams to see past the conventional and beyond best practice."""
+  Passionate mentor and leader with the aim of guiding teams to see past the conventional and beyond best practice."""
   
 
 ## Contacts Configurations
