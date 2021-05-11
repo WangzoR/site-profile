@@ -70,25 +70,29 @@ googleAnalytics = "UA-143030805-1"
 
 ## Contacts Configurations
 [params.contacts]
-  email 		= "david.wang@gbst.com"
-  github 		= "wangzor"
-  twitter 		= "wangzor_"
-  linkedin 		= "david-wang1"
+  email 		    = "david.wang@gbst.com"
+  github 		    = "wangzor"
+  twitter 		  = "wangzor_"
+  linkedin 		  = "david-wang1"
   stackoverflow = "11717384/wangzor"
-  # quora 		= "david-wang-1072"
+  # quora 		  = "david-wang-1072"
   # instagram 	= "wangzor"
-  # medium 		= "wangzor"
-  # dribbble 	= "wangzor"
-  # behance 	= "wangzor"
-  # keybase 	= "wangzor"
-  # facebook 	= "wangzor"
+  # medium 		  = "wangzor"
+  # dribbble 	  = "wangzor"
+  # behance 	  = "wangzor"
+  # keybase 	  = "wangzor"
+  # facebook  	= "wangzor"
 
 ## Actions Configurations
 
 [[params.actions]]
   name = "Resume (PDF)"
   url = "https://drive.google.com/file/d/1FabrPvpFev5CExDT5KhyJ8uXbvYDCCxc/view?usp=sharing"
-
+ 
+[[params.actions]]
+  name = "Tech Overview"
+  url = "https://youtu.be/FdIlvKhJzWU" 
+  
 [[params.actions]]
   name = "Composer"
   url = "https://www.gbst.com/solutions/wealth-management/wealth-administration-platform"
@@ -101,10 +105,6 @@ googleAnalytics = "UA-143030805-1"
   name = "Unison"
   url = "https://www.gbst.com/solutions/memberships-and-associations"
     
-  [[params.actions]]
-  name = "Tech Overview"
-  url = "https://youtu.be/FdIlvKhJzWU" 
-  
 ## Footer Configurations
 [params.footer]
   copyright = "© 2021 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
