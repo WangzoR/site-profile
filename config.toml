@@ -49,7 +49,7 @@ googleAnalytics = "UA-143030805-1"
   description = "Project Manager at GBST"
   keywords = "wangzor, david wang, gbst, project manager, engineering manager, e-volve, evolve, program manager"
   images = [
-    "/images/profile.gif"
+    "/images/profile.png"
   ]
 
 
@@ -102,7 +102,7 @@ googleAnalytics = "UA-143030805-1"
   url = "https://www.gbst.com/solutions/memberships-and-associations"
     
   [[params.actions]]
-  name = "Overview (Video)"
+  name = "Tech Overview"
   url = "https://youtu.be/FdIlvKhJzWU" 
   
 ## Footer Configurations
