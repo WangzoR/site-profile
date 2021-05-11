@@ -90,21 +90,25 @@ googleAnalytics = "UA-143030805-1"
   url = "https://drive.google.com/file/d/1FabrPvpFev5CExDT5KhyJ8uXbvYDCCxc/view?usp=sharing"
   
 [[params.actions]]
+  name = "E-VOLVE and Catalyst (Video)"
+  url = "https://youtu.be/FdIlvKhJzWU" 
+
+[[params.actions]]
+  name = "Composer"
+  url = "https://www.gbst.com/solutions/wealth-management/wealth-administration-platform"
+  
+[[params.actions]]
   name = "Catalyst"
   url = "https://www.emudesign.com.au/portfolio/vitality-invest/"
- 
-[[params.actions]]
-  name = "Vitality"
-  url = "https://adviser.vitality.co.uk/campaigns/investments/launch-2020/" 
 
   [[params.actions]]
   name = "Unison"
   url = "https://www.gbst.com/solutions/memberships-and-associations"
+  
 ## Footer Configurations
 [params.footer]
   copyright = "© 2021 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = false
-
 
 ## Privacy Configurations (GDPR)
 [privacy]
