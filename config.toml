@@ -63,9 +63,9 @@ googleAnalytics = "UA-143030805-1"
   
   11+ years of experience in various leadership roles, agile coaching, programming and DevOps.
   
-  I help development teams be better, creating team environments that foster a culture of trust saftey and continuous improvement.
+  I help development teams be better, creating empowered team environments that foster a culture of trust, saftey and continuous improvement.
   
-  Passionate mentor and leader with the aim of guiding teams to see past the conventional and beyond best practice."""
+  Passionate leader and mentor with the aim of guiding teams to see past the conventional and beyond best practice."""
   
 
 ## Contacts Configurations
@@ -74,7 +74,7 @@ googleAnalytics = "UA-143030805-1"
   github 		    = "wangzor"
   twitter 		  = "wangzor_"
   linkedin 		  = "david-wang1"
-  stackoverflow = "11717384/wangzor"
+  # stackoverflow = "11717384/wangzor"
   # quora 		  = "david-wang-1072"
   # instagram 	= "wangzor"
   # medium 		  = "wangzor"
