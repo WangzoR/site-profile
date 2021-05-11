@@ -88,10 +88,6 @@ googleAnalytics = "UA-143030805-1"
 [[params.actions]]
   name = "Resume (PDF)"
   url = "https://drive.google.com/file/d/1FabrPvpFev5CExDT5KhyJ8uXbvYDCCxc/view?usp=sharing"
-  
-[[params.actions]]
-  name = "E-VOLVE and Catalyst (Video)"
-  url = "https://youtu.be/FdIlvKhJzWU" 
 
 [[params.actions]]
   name = "Composer"
@@ -104,6 +100,10 @@ googleAnalytics = "UA-143030805-1"
   [[params.actions]]
   name = "Unison"
   url = "https://www.gbst.com/solutions/memberships-and-associations"
+    
+  [[params.actions]]
+  name = "Overview (Video)"
+  url = "https://youtu.be/FdIlvKhJzWU" 
   
 ## Footer Configurations
 [params.footer]
