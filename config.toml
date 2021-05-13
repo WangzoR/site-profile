@@ -1,7 +1,7 @@
 theme = "awesome-identity"
 baseURL = "https://wangzor.com"
-title = "David Wang - Project Manager / Engineering Manager"
-languageCode = "en-US"
+title = "David Wang - Project Manager / Engineering Leader"
+languageCode = "en-AU"
 # Content without language indicator will default to this language
 defaultContentLanguage = "en"
 # Make .Summary and .WordCount behave correctly for CJK languages
@@ -58,10 +58,10 @@ googleAnalytics = "UA-143030805-1"
   portrait = "/images/headshot.png"
   firstname = "David" 
   lastname = "Wang"
-  title = "Project Manager / Engineering Manager"
+  title = "Project Manager / Engineering Leader"
   bio = """Currently working as a Project Manager in the Fintech industry at [**GBST**](http://gbst.com).
   
-  11+ years of experience in various leadership roles, agile coaching, programming and DevOps.
+  Technology leader with 11+ years of experience in various roles in management, leadership, agile coaching, programming and DevOps.
   
   I help development teams be better, creating empowered team environments that foster a culture of trust, saftey and continuous improvement.
   
@@ -87,10 +87,10 @@ googleAnalytics = "UA-143030805-1"
 
 [[params.actions]]
   name = "Resume (PDF)"
-  url = "https://drive.google.com/file/d/1FabrPvpFev5CExDT5KhyJ8uXbvYDCCxc/view?usp=sharing"
+  url = "https://drive.google.com/file/d/1wpqpIxvxAYMAGfGF-yMiW0gQheWc1JEH/view?usp=sharing"
  
 [[params.actions]]
-  name = "Tech Overview"
+  name = "Tech (Video)"
   url = "https://youtu.be/FdIlvKhJzWU" 
   
 [[params.actions]]
