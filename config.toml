@@ -46,8 +46,8 @@ googleAnalytics = "UA-143030805-1"
   
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
-  description = "Project Manager at GBST"
-  keywords = "wangzor, david wang, gbst, project manager, engineering manager, e-volve, evolve, program manager"
+  description = "Technical Program Manager at Canva"
+  keywords = "wangzor, david wang, canva, gbst, project manager, engineering manager, senior engineering leader, e-volve, evolve, program manager, technical program manager"
   images = [
     "/images/profile.png"
   ]
@@ -58,10 +58,10 @@ googleAnalytics = "UA-143030805-1"
   portrait = "/images/headshot.png"
   firstname = "David" 
   lastname = "Wang"
-  title = "Project Manager / Engineering Leader"
-  bio = """Currently working as a Project Manager in the Fintech industry at [**GBST**](http://gbst.com).
+  title = "Engineering Leader / Technical Program Manager"
+  bio = """Currently working as a Technical Program Manager at [**Canva**](https://www.canva.com/).
   
-  Technology leader with 11+ years of experience in various roles in management, leadership, agile coaching, programming and DevOps.
+  Senior Engineering Leader with 12+ years of experience in various roles in engineering management, leadership, agile coaching, programming and DevOps.
   
   I help development teams be better, creating empowered team environments that foster a culture of trust, saftey and continuous improvement.
   
@@ -88,7 +88,11 @@ googleAnalytics = "UA-143030805-1"
 [[params.actions]]
   name = "Resume (PDF)"
   url = "https://drive.google.com/file/d/1wpqpIxvxAYMAGfGF-yMiW0gQheWc1JEH/view?usp=sharing"
- 
+
+[[params.actions]]
+  name = "Canva Developers"
+  url = "https://www.canva.com/developers/" 
+
 [[params.actions]]
   name = "Tech (Video)"
   url = "https://youtu.be/FdIlvKhJzWU" 
@@ -107,7 +111,7 @@ googleAnalytics = "UA-143030805-1"
     
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2021 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2022 David Wang. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = false
 
 ## Privacy Configurations (GDPR)
