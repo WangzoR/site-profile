@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = "https://wangzor.com"
-title = "David Wang - Project Manager / Engineering Leader"
+title = "David Wang - Senior Engineering Leader / Technical Program Manager"
 languageCode = "en-AU"
 # Content without language indicator will default to this language
 defaultContentLanguage = "en"
@@ -58,16 +58,15 @@ googleAnalytics = "UA-143030805-1"
   portrait = "/images/headshot.png"
   firstname = "David" 
   lastname = "Wang"
-  title = "Engineering Leader / Technical Program Manager"
-  bio = """Currently working as a Technical Program Manager at [**Canva**](https://www.canva.com/).
-  
-  Senior Engineering Leader with 12+ years of experience in various roles in engineering management, leadership, agile coaching, programming and DevOps.
+  title = "Senior Engineering Leader / Technical Program Manager"
+  bio = """Currently working as a Technical Program Manager at [**Canva**](https://www.canva.com/), building an abundant app ecosystem that tailors Canva for our 100M+ monthly users.
+
+  Senior Engineering Leader with 12+ years of experience in various roles in engineering leadership, agile coaching, programming and DevOps.
   
   I help development teams be better, creating empowered team environments that foster a culture of trust, saftey and continuous improvement.
   
   Passionate leader and mentor with the aim of guiding teams to see past the conventional and beyond best practice."""
   
-
 ## Contacts Configurations
 [params.contacts]
   email 		    = "david.wang@gbst.com"
@@ -90,7 +89,7 @@ googleAnalytics = "UA-143030805-1"
   url = "https://drive.google.com/file/d/1wpqpIxvxAYMAGfGF-yMiW0gQheWc1JEH/view?usp=sharing"
 
 [[params.actions]]
-  name = "Canva Developers"
+  name = "Canva"
   url = "https://www.canva.com/developers/" 
 
 [[params.actions]]
