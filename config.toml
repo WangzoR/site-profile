@@ -84,9 +84,9 @@ googleAnalytics = "UA-143030805-1"
 
 ## Actions Configurations
 
-[[params.actions]]
-  name = "Resume (PDF)"
-  url = "https://drive.google.com/file/d/1wpqpIxvxAYMAGfGF-yMiW0gQheWc1JEH/view?usp=sharing"
+##[[params.actions]]
+##  name = "Resume (PDF)"
+##  url = "https://drive.google.com/file/d/1wpqpIxvxAYMAGfGF-yMiW0gQheWc1JEH/view?usp=sharing"
 
 [[params.actions]]
   name = "Canva"
